@@ -5,7 +5,7 @@
 
   Add it in your root build.gradle at the end of repositories:</br>
   allprojects {</br>
-		repositories {</br>
+		&nbsp;repositories {</br>
 			...</br>
 			maven { url 'https://jitpack.io' }</br>
 		}</br>
